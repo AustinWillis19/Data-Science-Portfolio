@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Austin Willis CV
 ---
-# Austin Willis
+
 
 1 - (812) -320-9064 | austinwillis19@byui.edu | [http://www.linkedin.com/in/austin-willis](http://www.linkedin.com/in/austin-willis)
 
