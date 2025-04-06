@@ -2,88 +2,60 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Austin Willis
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+1 - (812) -320-9064 | austinwillis19@byui.edu | [http://www.linkedin.com/in/austin-willis](http://www.linkedin.com/in/austin-willis)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+BSC in Business Analytics September 2021 - December 2025
+_Brigham Young University - Idaho_ Rexburg, ID
+ Overall GPA: 3.
+ Minor: Statistics
+ VP Management Consulting Society, Data Science Society
+ Area of interest: Investment Banking, Management Consulting, Wealth Management, Data Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Sizar
+Student Leadership Asst. Director August 2024 - Present
+_Brigham Young University Idaho_ Rexburg, ID
+ Trained and developed 30 top student leaders in weekly meetings, facilitating brainstorming sessions on campus-
+wide challenges and promoting collaborative problem-solving leading to more than 7 carried out student
+initiatives
+ Conducted weekly leadership training meetings with top student leaders, by brainstorming sessions on campus-
+wide challenges and promoted collaborative problem-solving
+ Served as student representative on the Executive Councils by contributing to high-level decision-making on
+campus policies regarding curriculum and student development for 22,000 students
 
-`1667 - death`
-__Trinity College, Cambridge__
+Trip Leader | HXP May 2024 - August 2024
+_Humanitarian Experience | HXP_ Quetzaltenango, Guatemala
+ Led a group of 41 participants in international humanitarian projects by ensuring safety, team cohesion, and
+project completion
+ Created a community between participants, local partners, and HXP, through translation and itinerary
+management between 15 local and foreign vendors
 
-- Fellow
+Intermediate Statistics TA January 2024 - April 2024
+_Math 325 Bro. Saunders_ Rexburg, ID
+ Delivered one-on-one and group support to students, clarifying complex statistical concepts and using R
+programming techniques to visualize databases with 1000's of entries
+ Facilitated review sessions and office hours, addressing student questions and enhancing understanding of
+statistical analysis using R-studio in guiding 35 students through projects
 
+ADT Security/Moxie Pest Control April 2022 - August 2023
+_Direct to Consumer Sales_ Charlotte NC /Austin TX
+ Achieved and exceeded sales targets by building rapport, redirecting customer concerns resulting in increase in
+revenue by thousands of dollars
+ Sold over $250,000 dollars in cold call revenue by door to door approach from personal sales over two 3 1/
+month periods resulting in increase of recurring revenue
+ Monitored more than 200 customer accounts and contracts by personal outreach, preventing account fall-off and
+profit loss by more than 18 %
 
+## Key Skills
 
-## Awards
+```
+ Data Analysis: SQL, Python, R-Studio, Microsoft Excel, Statistics, Jupyter, Google Analytics
+ Business Intelligence: AWS, Tableau, Power-BI
+ Other Skills: Microsoft Powerpoint, Word
+ Soft Skills: Sales, Leadership, Problem Solving, Time Management, Communication
+```
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
